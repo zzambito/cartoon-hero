@@ -1,0 +1,34 @@
+<!-- This is ruleset styling and class! -->
+
+h1{
+	font-size: 100px;
+	color: seagreen;
+}
+
+h3{
+	font-size: 50px;
+	color: seagreen;
+}
+
+.big{
+	font-size: 100px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+span{
+	color: blue;
+	font-size: 40px;
+}
+
+h1 span{
+	color: pink;
+	font-size: 50px;
+}
+
+h1{
+	color: red;
+	font-size: 80px;
+}
