@@ -1,9 +1,5 @@
 <!-- This is ruleset styling and class! -->
 
-body{
-	background-color: yellow;
-}
-
 h1{
 	font-size: 100px;
 	color: seagreen;
@@ -35,4 +31,8 @@ h1 span{
 h1{
 	color: red;
 	font-size: 80px;
+}
+
+body{
+	background-color: lightgrey;
 }
