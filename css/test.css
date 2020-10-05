@@ -1,5 +1,9 @@
 <!-- This is ruleset styling and class! -->
 
+body{
+	background-color: yellow;
+}
+
 h1{
 	font-size: 100px;
 	color: seagreen;
